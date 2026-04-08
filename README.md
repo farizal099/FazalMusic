@@ -21,3 +21,7 @@ Dibuat oleh:
 
 Farizal
 GitHub: https://github.com/farizal099
+
+## 📃 Note
+
+Ini hanya taampilan aja belum jadi 
