@@ -10,11 +10,6 @@ Smooth Animation
 Gradient Background
 Clean Layout
 
-## 🤝 Kontribusi
-
-Kontribusi sangat terbuka.
-
-
 ## 👨‍💻 Developer
 
 Dibuat oleh:
